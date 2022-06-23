@@ -25,3 +25,5 @@
 11-directories_permissions: Grant execute permission to all subdirectories
 
 12-directory_permissions: create my_dir directory with 751 permission
+
+13-change_group: change the group owner of hello file to school
