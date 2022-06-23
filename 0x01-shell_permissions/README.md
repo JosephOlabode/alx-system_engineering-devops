@@ -17,3 +17,5 @@
 7-everybody: add execution permission to everybody
 
 8-James_Bond: allow only other users to have full access
+
+9-John_Doe: allow hello to have rwxr-x-wx permission
