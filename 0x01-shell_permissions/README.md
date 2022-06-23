@@ -29,3 +29,5 @@
 13-change_group: change the group owner of hello file to school
 
 100-change_owner_and_group: change owner and group
+
+101-symbolic_link_permissions: script that changes the owner and the group owner of _hello to vincent and staff respectively.
