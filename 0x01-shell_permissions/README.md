@@ -23,3 +23,5 @@
 10-mirror_permissions: clone permission of file olleh to hello
 
 11-directories_permissions: Grant execute permission to all subdirectories
+
+12-directory_permissions: create my_dir directory with 751 permission
