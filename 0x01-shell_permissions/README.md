@@ -15,3 +15,5 @@
 6-multiple_permissions: add execute permission to owner and group but read to other users
 
 7-everybody: add execution permission to everybody
+
+8-James_Bond: allow only other users to have full access
