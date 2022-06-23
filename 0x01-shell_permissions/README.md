@@ -13,3 +13,5 @@
 5-execute: script to add executable permission to hello
 
 6-multiple_permissions: add execute permission to owner and group but read to other users
+
+7-everybody: add execution permission to everybody
