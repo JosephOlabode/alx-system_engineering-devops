@@ -5,3 +5,5 @@
 1-who_am_i: script that prints the effective username of the current user
 
 2-groups: script that  prints all the groups of a user
+
+3-new_owner: script that changes the owner of the file hello to the user betty
