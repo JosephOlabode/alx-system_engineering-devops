@@ -19,3 +19,5 @@
 8-James_Bond: allow only other users to have full access
 
 9-John_Doe: allow hello to have rwxr-x-wx permission
+
+10-mirror_permissions: clone permission of file olleh to hello
