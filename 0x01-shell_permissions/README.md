@@ -21,3 +21,5 @@
 9-John_Doe: allow hello to have rwxr-x-wx permission
 
 10-mirror_permissions: clone permission of file olleh to hello
+
+11-directories_permissions: Grant execute permission to all subdirectories
