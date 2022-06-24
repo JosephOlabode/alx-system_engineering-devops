@@ -1,4 +1,4 @@
-# PRINT THE CURRENT WORKING DIRECTORY SCRIPT
+ PRINT THE CURRENT WORKING DIRECTORY SCRIPT
 0-current_working_directory: This is for printing the working current directory path using a shell script
 
 1-listit: Display the contents list of your current directory.
@@ -33,6 +33,6 @@
 
 14-copy_html: script to copy all html to parent directory
 
-15-let_move:  script that moves all files beginning with an uppercase letter to the directory /tmp/u
+100-let_move:  script that moves all files beginning with an uppercase letter to the directory /tmp/u
 
-
+101-clean_emacs:  script that deletes all files in the current working directory that end with the character ~
