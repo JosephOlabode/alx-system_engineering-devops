@@ -11,7 +11,7 @@
 
 5-listfilesdigitonly: Display current directory contents.
      Long format
-     with user and group IDs displayed numerically
+     wsth user and group IDs displayed numerically
      And hidden files (starting with .)
 
 6-firstdirectory: Create a script that creates a directory named my_first_directory in the /tmp/ directory.
@@ -20,4 +20,5 @@
 
 8-firstdelete: Delete the file betty from /tmp/my_first_directory
 
+9-firstdirdeletion: Delete directory my_first_directory from /tmp
  
