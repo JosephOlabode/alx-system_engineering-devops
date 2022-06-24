@@ -21,4 +21,5 @@
 8-firstdelete: Delete the file betty from /tmp/my_first_directory
 
 9-firstdirdeletion: Delete directory my_first_directory from /tmp
- 
+
+10-back: script that changes the working directory to the previous one 
