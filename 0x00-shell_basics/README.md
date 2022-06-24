@@ -32,3 +32,7 @@
 
 
 14-copy_html: script to copy all html to parent directory
+
+15-let_move:  script that moves all files beginning with an uppercase letter to the directory /tmp/u
+
+
