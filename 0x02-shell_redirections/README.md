@@ -7,3 +7,5 @@
 2-hellofile - printing the content of password file
 
 3-twofiles: Printing of content of two files
+
+4-lastlines: Printing of the last 4 lines
