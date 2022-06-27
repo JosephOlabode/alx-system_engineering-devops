@@ -11,3 +11,5 @@
 4-lastlines: Printing of the last 4 lines
 
 5-firstlines: Print first 10 lines of a file
+
+6-third_line: Print the thired line of a file iacta
