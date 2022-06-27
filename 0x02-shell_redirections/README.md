@@ -21,3 +21,5 @@
 9-duplicate_last_line: Duplicate the last line of iacta
 
 10-no_more_js: script that deletes all the regular files (not the directories) with a .js
+
+11-directories: script that counts the number of directories and sub-directories in the current directory
