@@ -13,3 +13,5 @@
 5-firstlines: Print first 10 lines of a file
 
 6-third_line: Print the thired line of a file iacta
+
+7-file: creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
