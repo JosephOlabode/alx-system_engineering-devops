@@ -19,3 +19,5 @@
 8-cwd_state: script that writes into the file ls_cwd_content the result of the command ls -la
 
 9-duplicate_last_line: Duplicate the last line of iacta
+
+10-no_more_js: script that deletes all the regular files (not the directories) with a .js
